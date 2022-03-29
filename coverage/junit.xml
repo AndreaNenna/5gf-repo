@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="2" failures="0" time="0.893">
+  <testsuite name="handlerFactory" errors="0" failures="0" skipped="0" timestamp="2022-03-21T16:23:39" time="0.464" tests="2">
+    <testcase classname="handlerFactory returns value from event" name="handlerFactory returns value from event" time="0.003">
+    </testcase>
+    <testcase classname="handlerFactory calls the formatting function" name="handlerFactory calls the formatting function" time="0">
+    </testcase>
+  </testsuite>
+</testsuites>
